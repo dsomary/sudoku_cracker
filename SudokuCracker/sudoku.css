@@ -1,0 +1,31 @@
+input[type="text"]{
+    font-size: 1.5em;
+    margin-right: -.2em;
+    padding: 0;
+    width: 1em;
+    height: 1em;
+}
+input[class="right"]{
+    margin-right: 0;
+}
+input[class="bottom"]{
+    margin-bottom: .2em;
+}
+
+input[class="both"]{
+    margin-right: 0;
+    margin-bottom: .2em;
+}
+
+h1{
+    color: white;
+    background-color: green;
+    font-size: 4em;
+    font-family: "Arial Black", Gadget, sans-serif;
+}
+
+body{
+    background-color: lawngreen;
+    text-align: center;
+}
+
